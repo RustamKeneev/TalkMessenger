@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TalkMessenger</string>
+    <string name="login">Авторизация</string>
+    <string name="password">Пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="have_a_account">Войдите если есть аккаунт</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Выйти</string>
+</resources>

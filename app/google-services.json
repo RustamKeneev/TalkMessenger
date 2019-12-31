@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "826568539291",
+    "firebase_url": "https://talkmessenger-556c3.firebaseio.com",
+    "project_id": "talkmessenger-556c3",
+    "storage_bucket": "talkmessenger-556c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826568539291:android:4684c268e82f9abde11a3e",
+        "android_client_info": {
+          "package_name": "com.example.talkmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "826568539291-7raemuolq2e4hejb75v9ip4t93v1poa6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.talkmessenger",
+            "certificate_hash": "55e50d878b839086b2f5aceaa46f5287be24611c"
+          }
+        },
+        {
+          "client_id": "826568539291-8h47dpg8vnb1c11q0nesuk5ahivuspib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcYvwBL4JwRUVadEBBGJLysJWUG0_fPcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "826568539291-8h47dpg8vnb1c11q0nesuk5ahivuspib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
